@@ -1,0 +1,7 @@
+Algorithm	               Time Complexity                               Space Complexity
+                  Best             Average	  Worst	
+Selection Sort	 O(n^2)	           ?(n^2)	  O(n^2)
+Bubble Sort	  O(n)             ?(n^2)	  O(n^2)
+Merge Sort	O(n log(n))	?(n log(n))	O(n log(n))
+Linear Search 
+Binary Search 
